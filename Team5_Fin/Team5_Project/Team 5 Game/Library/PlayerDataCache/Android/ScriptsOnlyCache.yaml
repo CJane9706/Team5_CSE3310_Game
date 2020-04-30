@@ -21,10 +21,7 @@ ScriptsOnlyBuild:
     - Victory
     - healthPotion
     Unity.2D.Tilemap.Editor.dll:
-    - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
@@ -1162,4 +1159,4 @@ ScriptsOnlyBuild:
   - Assets/RavenQuest/Scenes/Game Over.unity
   - Assets/RavenQuest/Scenes/VictoryScreen.unity
   - Assets/RavenQuest/Scenes/Main Scene.unity
-  playerPath: C:/Users/15127/Desktop/Spring 2020/Raven_Quest.apk
+  playerPath: C:/Users/15127/Desktop/Spring 2020/Team5_RavenQuest.apk

@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 877, y: 492}
   m_MaxSize: {x: 16002, y: 14042}
   vertical: 1
-  controlID: 17
+  controlID: 59
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 877, y: 492}
   m_MaxSize: {x: 16002, y: 14042}
   vertical: 0
-  controlID: 18
+  controlID: 60
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 602, y: 492}
   m_MaxSize: {x: 12002, y: 14042}
   vertical: 1
-  controlID: 70
+  controlID: 61
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_MinSize: {x: 602, y: 221}
   m_MaxSize: {x: 12002, y: 4021}
   vertical: 0
-  controlID: 71
+  controlID: 62
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -582,9 +582,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a8390000
-      m_LastClickedID: 14760
-      m_ExpandedIDs: e4faffff6afbffff843f0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 66f9ffff7af9ffff9efaffffa2faffffa8faffffacfaffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -647,20 +647,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RavenQuest/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 66
   m_LastFolders:
-  - Assets/RavenQuest/Scenes
+  - Assets
   m_LastFoldersGridSize: 66
-  m_LastProjectPath: C:\Users\15127\Desktop\Spring 2020\Software\Team5_Code_33104_SP2020\Team5_Project\Team
+  m_LastProjectPath: C:\Users\15127\Desktop\Spring 2020\Software\Team5_Fin\Team5_Project\Team
     5 Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 132}
-    m_SelectedIDs: 22370000
-    m_LastClickedID: 14114
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: dc360000
+    m_LastClickedID: 14044
     m_ExpandedIDs: 00000000dc360000de360000e0360000e2360000e4360000e6360000e8360000ea360000ec360000ee360000f0360000f236000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -716,7 +716,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000c2350000a436000020360000ae5100006a510000845100003e410000f8360000163a000062e4fffff63a000050d90000023c000000000000563e0000583e0000b64200003e6b00002e6b0000543e00005c3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
