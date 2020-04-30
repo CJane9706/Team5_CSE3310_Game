@@ -1,3 +1,12 @@
+How to install the application on your android device
+
+1. Connect your android device to your computer
+2. Find "RavenQuest.apk" and copy the file to your android device
+3. Search the apk file in your android device and install the file. This will install the project as an executable application
+4. Execute the application and play "RavenQuest"!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If you would like to build the file yourself, here are the instructions
 How to build and install the project to your android device
 *Unity version 3.4f1 is required
 
